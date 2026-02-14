@@ -24,6 +24,7 @@ export default function Home() {
           Discover the best multi-vendor clothing for your kids. Stylish,
           comfortable, and affordable!
         </p>
+        <Link href="/">Test link</Link>
         <Link
           href="/shop"
           className="bg-blue-500 hover:bg-blue-600 text-white font-semibold py-3 px-8 rounded-lg transition"
