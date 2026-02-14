@@ -20,7 +20,7 @@ export default function Home() {
         <h1 className="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
           Welcome to KidsWear
         </h1>
-        <p className="text-lg md:text-xl text-gray-700 max-w-2xl mb-8">
+        {/* <p className="text-lg md:text-xl text-gray-700 max-w-2xl mb-8">
           Discover the best multi-vendor clothing for your kids. Stylish,
           comfortable, and affordable!
         </p>
@@ -30,7 +30,7 @@ export default function Home() {
           className="bg-blue-500 hover:bg-blue-600 text-white font-semibold py-3 px-8 rounded-lg transition"
         >
           Shop Now
-        </Link>
+        </Link> */}
       </section>
 
       {/* Categories Section */}
