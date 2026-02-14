@@ -10,6 +10,3 @@ export interface UserI {
 export interface VendorDetailsI extends UserI {
   phone: string
 }
-
-
-// Test commit 
