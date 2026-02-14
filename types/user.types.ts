@@ -7,8 +7,6 @@ export interface UserI {
   gendor: string;
   image: string;
 }
-
-// test commit
 export interface VendorDetailsI extends UserI {
   phone: string
 }
